@@ -1,0 +1,57 @@
+
+
+
+
+ul{
+    text-decoration: none;
+    display: inline-block;
+    justify-content: space-around;
+
+}
+
+.header_content{
+    text-align: center;
+}
+
+.header_content_inner{
+    display: flex;
+}
+
+.menu li{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    padding:0 10px;
+    transition: all .3s;
+    margin-left: 50px;
+    text-align: center;
+
+
+
+}
+
+.menu {
+    width: 100%;
+}
+
+.menu li:hover{
+    padding: 20px;
+    background-color: #474746;
+}
+
+.about_school ul{
+    font-size: 20px;
+    display: flex;
+    padding: 15px;
+    margin-left: 150px;
+    color: white;
+}
+
+.about_school li{
+    margin-left: 60px;
+}
+
+.about_school{
+    background-color: #171716;
+}
+
